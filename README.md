@@ -146,12 +146,17 @@ By [Minghao Zhang](http://mehooz.weebly.com/). Since the author only focuses on 
 
 [Object-Oriented Dynamics Learning through Multi-Level Abstraction](https://arxiv.org/pdf/1904.07482.pdf), AAAI 2019
 
+[Language as an Abstraction for Hierarchical Deep Reinforcement Learning](https://arxiv.org/pdf/1906.07343.pdf), NeurIPS 2019
 
 
 
 # Workshops
 
-Coming soon......
+
+[Graph Representation Learning](https://grlearning.github.io/), NeurIPS 2019
+
+[Workshop on Representation Learning for NLP](https://sites.google.com/view/repl4nlp2020/), ACL 2016-2020
+
 
 # Courses
 [Berkeley CS 294-158, Deep Unsupervised Learning](https://sites.google.com/view/berkeley-cs294-158-sp19/home)
