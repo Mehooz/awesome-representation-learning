@@ -148,6 +148,8 @@ By [Minghao Zhang](http://mehooz.weebly.com/). Since the author only focuses on 
 
 [Language as an Abstraction for Hierarchical Deep Reinforcement Learning](https://arxiv.org/pdf/1906.07343.pdf), NeurIPS 2019
 
+[Interaction Networks for Learning about Objects, Relations and Physics](https://arxiv.org/pdf/1612.00222.pdf), NeurIPS 2016
+
 
 
 # Workshops
