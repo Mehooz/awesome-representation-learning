@@ -98,10 +98,12 @@ By [Minghao Zhang](http://mehooz.weebly.com/). Since the author only focuses on 
 [Count-Based Exploration with Neural Density Models](https://arxiv.org/pdf/1703.01310.pdf), ICML 2017
 
 [Learning Actionable Representations with Goal-Conditioned Policies](https://arxiv.org/pdf/1811.07819.pdf), ICLR 2019
+
 [Automatic Goal Generation for Reinforcement Learning Agents](https://arxiv.org/pdf/1705.06366.pdf), ICML 2018
 
 [VIME: Variational Information Maximizing Exploration](https://arxiv.org/pdf/1605.09674.pdf), NeurIPS 2017
 
+[Unsupervised State Representation Learning in Atari](http://papers.nips.cc/paper/9081-unsupervised-state-representation-learning-in-atari.pdf), NeurIPS 2019
 
 ### Disentangled Representation 
 
