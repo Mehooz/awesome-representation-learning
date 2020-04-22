@@ -152,7 +152,7 @@ By [Minghao Zhang](http://mehooz.weebly.com/). Since the author only focuses on 
 
 [Interaction Networks for Learning about Objects, Relations and Physics](https://arxiv.org/pdf/1612.00222.pdf), NeurIPS 2016
 
-
+[Learning Compositional Koopman Operators for Model-Based Control](https://arxiv.org/pdf/1910.08264.pdf), ICLR 2020
 
 # Workshops
 
