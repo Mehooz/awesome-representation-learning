@@ -80,6 +80,7 @@ By [Minghao Zhang](http://mehooz.weebly.com/). Since the author only focuses on 
 
 [Putting An End to End-to-End:Gradient-Isolated Learning of Representations](https://papers.nips.cc/paper/8568-putting-an-end-to-end-to-end-gradient-isolated-learning-of-representations.pdf), NeurIPS 2019
 
+[Bootstrap Your Own Latent: A New Approach to Self-Supervised Learning](https://arxiv.org/pdf/2006.07733.pdf), arxiv
 
 
 ### Representation Learning in Reinforcement Learning
