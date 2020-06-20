@@ -154,6 +154,8 @@ By [Minghao Zhang](http://mehooz.weebly.com/). Since the author only focuses on 
 
 [Learning Compositional Koopman Operators for Model-Based Control](https://arxiv.org/pdf/1910.08264.pdf), ICLR 2020
 
+[Unmasking the Inductive Biases of Unsupervised Object Representations for Video Sequences](https://arxiv.org/pdf/2006.07034.pdf), arxiv
+
 # Workshops
 
 
