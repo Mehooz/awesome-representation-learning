@@ -1,5 +1,5 @@
 # Reading List for Topics in Representation Learning
-By [Minghao Zhang](http://mehooz.weebly.com/). Since the author only focuses on specific directions, so it just covers small numbers of deep learning areas. If there is anything wrong and missed, just let me know!
+By [Minghao Zhang](https://sites.google.com/view/minghaozhang). Since the author only focuses on specific directions, so it just covers small numbers of deep learning areas. If there is anything wrong and missed, just let me know!
 
 
 ## Table of Contents
