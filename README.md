@@ -23,6 +23,8 @@ By [Minghao Zhang](http://mehooz.weebly.com/). Since the author only focuses on 
 
 [Representation Learning: A Review and New Perspectives](https://arxiv.org/abs/1206.5538), TPAMI 2013
 
+[Self-supervised Learning: Generative or Contrastive](https://arxiv.org/pdf/2006.08218.pdf), arxiv
+
 ## Core Areas
 
 ### Generative Model
