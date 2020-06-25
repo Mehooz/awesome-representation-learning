@@ -96,7 +96,7 @@ By [Minghao Zhang](https://sites.google.com/view/minghaozhang). Since the author
 
 [Learning Latent Dynamics for Planning from Pixels](http://proceedings.mlr.press/v97/hafner19a/hafner19a.pdf), ICML 2019
 
-[Embed to Control: A Locally Linear LatentDynamics Model for Control from Raw Images](https://papers.nips.cc/paper/5964-embed-to-control-a-locally-linear-latent-dynamics-model-for-control-from-raw-images.pdf), NeurIPS 2015
+[Embed to Control: A Locally Linear Latent Dynamics Model for Control from Raw Images](https://papers.nips.cc/paper/5964-embed-to-control-a-locally-linear-latent-dynamics-model-for-control-from-raw-images.pdf), NeurIPS 2015
 
 [DARLA: Improving Zero-Shot Transfer in Reinforcement Learning](https://arxiv.org/pdf/1707.08475.pdf), ICML 2017
 
@@ -110,7 +110,15 @@ By [Minghao Zhang](https://sites.google.com/view/minghaozhang). Since the author
 
 [Unsupervised State Representation Learning in Atari](http://papers.nips.cc/paper/9081-unsupervised-state-representation-learning-in-atari.pdf), NeurIPS 2019
 
+[Learning Invariant Representations for Reinforcement Learning without Reconstruction](https://arxiv.org/pdf/2006.10742.pdf), arxiv
+
+[CURL: Contrastive Unsupervised Representations for Reinforcement Learning](https://arxiv.org/pdf/2004.04136.pdf), arxiv
+
+[DeepMDP: Learning Continuous Latent Space Models for Representation Learning](http://proceedings.mlr.press/v97/gelada19a/gelada19a.pdf), ICML 2019
+
+
 ### Disentangled Representation 
+
 
 [beta-VAE: Learning Basic Visual Concepts with a Constrained Variational Framework](https://openreview.net/pdf?id=Sy2fzU9gl), ICLR 2017
 
@@ -126,6 +134,7 @@ By [Minghao Zhang](https://sites.google.com/view/minghaozhang). Since the author
 
 
 ### Object-based Representation  
+
 
 [Contrastive Learning of Structured World Models ](https://openreview.net/pdf?id=H1gax6VtDB), ICLR 2020
 
@@ -160,6 +169,7 @@ By [Minghao Zhang](https://sites.google.com/view/minghaozhang). Since the author
 [Learning Compositional Koopman Operators for Model-Based Control](https://arxiv.org/pdf/1910.08264.pdf), ICLR 2020
 
 [Unmasking the Inductive Biases of Unsupervised Object Representations for Video Sequences](https://arxiv.org/pdf/2006.07034.pdf), arxiv
+
 
 # Workshops
 
