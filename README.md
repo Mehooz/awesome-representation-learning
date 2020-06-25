@@ -152,6 +152,8 @@ By [Minghao Zhang](https://sites.google.com/view/minghaozhang). Since the author
 
 [Generative Modeling of Infinite Occluded Objects for Compositional Scene Representation](http://proceedings.mlr.press/v97/yuan19b/yuan19b.pdf), ICML 2019
 
+[SPACE: Unsupervised Object-Oriented Scene Representation via Spatial Attention and Decomposition](https://arxiv.org/pdf/2001.02407.pdf), arxiv
+
 [COBRA: Data-Efficient Model-Based RL through Unsupervised Object Discovery and Curiosity-Driven Exploration](https://arxiv.org/pdf/1905.09275v2.pdf), arxiv
 
 [Object-Oriented Dynamics Predictor](https://arxiv.org/pdf/1806.07371.pdf), NeurIPS 2018
