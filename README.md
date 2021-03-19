@@ -84,6 +84,10 @@ By [Minghao Zhang](https://www.minghaozhang.com). Since the author only focuses 
 
 [Bootstrap Your Own Latent: A New Approach to Self-Supervised Learning](https://arxiv.org/pdf/2006.07733.pdf), arxiv
 
+[Mitigating Embedding and Class Assignment Mismatch in Unsupervised Image Classification](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123690749.pdf), ECCV 2020
+
+[Improving Unsupervised Image Clustering With Robust Learning](https://arxiv.org/pdf/2012.11150.pdf), CVPR 2021
+
 
 ### Representation Learning in Reinforcement Learning
 
